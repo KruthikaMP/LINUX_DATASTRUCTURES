@@ -10,7 +10,7 @@ int main()
     int fd;
 
     // FIFO file path
-    char * myfifo = "/tmp/myfifo";
+    char * myfifo = "/home/ubuntu/LINUX_DATASTRUCTURES";
 
     // Creating the named file(FIFO)
     // mkfifo(<pathname>, <permission>)
